@@ -1,0 +1,9 @@
+{
+  "translation": {
+    "FIRST_MESSAGE": "What do you want me to do on your TV?",
+    "TURN_ON": "Turning on the TV",
+    "TURN_OFF": "Turning off the TV",
+    "MUTE": "Removing sound from the TV",
+    "UNMUTE": "Removing sound from the TV"
+  }
+}

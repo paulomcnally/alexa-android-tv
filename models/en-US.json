@@ -1,0 +1,56 @@
+{
+	"invocation": "android tv",
+	"inputTypes": [],
+	"alexa": {
+		"interactionModel": {
+			"languageModel": {
+				"intents": [
+					{
+						"name": "AMAZON.CancelIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.HelpIntent",
+						"samples": []
+					},
+					{
+						"name": "AMAZON.StopIntent",
+						"samples": []
+					}
+				]
+			}
+		}
+	},
+	"intents": [
+		{
+			"name": "LaunchIntent",
+			"phrases": [
+        "android tv"
+			]
+    },
+    {
+			"name": "TurnOnIntent",
+			"phrases": [
+        "turn on tv"
+			]
+    },
+    {
+			"name": "TurnOffIntent",
+			"phrases": [
+        "turn off tv"
+			]
+    },
+    {
+			"name": "MuteIntent",
+			"phrases": [
+        "mute tv"
+			]
+    },
+    {
+			"name": "UnMuteIntent",
+			"phrases": [
+        "unmute tv"
+			]
+		}
+	]
+}

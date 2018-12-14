@@ -1,0 +1,29 @@
+{
+  "name": "alexa-android-tv",
+  "version": "1.0.0",
+  "description": "Control your Android TV",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-verifier-middleware": "^1.0.1",
+    "i18next": "^12.1.0",
+    "jovo-framework": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomcnally/alexa-android-tv.git"
+  },
+  "author": "Paulo McNally",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/alexa-android-tv/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/alexa-android-tv#readme"
+}
